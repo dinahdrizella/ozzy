@@ -14,5 +14,12 @@ print(num1 + num2)
 #variables in pyhton are python are name sensitive eg Num1 is different from num1
 print(num2)
 #variable can be used to a new variable
-
-
+#A complete instruction to a computer is a called a statement
+#A statement that evaluates to a result is called an expression eg.line 6
+#A pyhton file is called a pyhton script
+#A statement that evaluates to a result is called an expression
+#A python script is a collection of statements
+#A group of statements is called a code
+#A group of related code is called a block
+#A block ofcode in a python script is called a program
+#the running/implementing of the program is called execution
