@@ -23,3 +23,6 @@ print(num2)
 #A group of related code is called a block
 #A block ofcode in a python script is called a program
 #the running/implementing of the program is called execution
+#the process of creating a variable to a memory location is called declaring a variable
+#the process of giving/storing a value in a variable is called initializing or assigning
+#semantics is the meaning of what is written 
